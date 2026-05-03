@@ -24,13 +24,12 @@ The most critical component of this program is the `CharMap`. You can view this 
 **Setup:**
 1.  Clone the repository:
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/darkstarshine2011/MK-Encoder-Decoder/
     cd MK-Encoder-Decoder
     ```
 2.  Run the script:
     ```bash
-    python encoder_decoder.py 
-    # Note: Replace 'encoder_decoder.py' with the actual file name
+    python "MK Encode-Decoder.py"
     ```
 
 **How to Use (The Command Loop):**
@@ -62,12 +61,12 @@ Upon running the script, you will be presented with a menu:
 **نصب:**
 1.  ریپازیتوری را کلون کنید:
     ```bash
-    git clone [Your Repository URL]
+    git clone Your Repository URL]](https://github.com/darkstarshine2011/MK-Encoder-Decoder/
     cd MK-Encoder-Decoder
     ```
 2.  اسکریپت را اجرا کنید:
     ```bash
-    python encoder_decoder.py
+    python "MK Encode-Decoder.py"
     # توجه: لطفاً 'encoder_decoder.py' را با نام فایل واقعی جایگزین کنید.
     ```
 
