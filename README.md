@@ -67,7 +67,6 @@ Upon running the script, you will be presented with a menu:
 2.  اسکریپت را اجرا کنید:
     ```bash
     python "MK Encode-Decoder.py"
-    # توجه: لطفاً 'encoder_decoder.py' را با نام فایل واقعی جایگزین کنید.
     ```
 
 **نحوه استفاده (منوی اصلی):**
