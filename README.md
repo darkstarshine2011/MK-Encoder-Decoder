@@ -13,7 +13,7 @@ This repository contains the **MK Encoder-Decoder**, a simple, character-based u
 ### 🔑 The Character Map (The Key)
 The most critical component of this program is the `CharMap`. You can view this file as the **encryption key**.
 
-*   **What it is:** It is a text file that defines the mapping between regular characters and their encoded substitutes.
+*   **What it is:** It is a file that defines the mapping between regular characters and their encoded substitutes.
 *   **Customization:** The user is empowered to create their own `CharMap`. By providing a specific file path to this map, you dictate exactly how the encoder/decoder will function, making the security dependent on the secrecy of the key file itself.
 
 ### 🚀 Getting Started (Usage)
