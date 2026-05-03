@@ -8,7 +8,7 @@
 ## 🇬🇧 English Version
 
 ### 📜 Overview
-This repository contains the **MK Encoder-Decoder**, a simple, character-based utility designed for encoding and decoding non-binary files (text, python, lua, etc.) through a unique substitution cipher method. It acts as a programmatic way to obscure plain text data using a custom character map.
+This repository contains the **MK Encoder-Decoder**, a simple, character-based utility designed for encoding and decoding non-binary files (text, python, lua, etc.) through a unique substitution cipher method. It acts as a programmatic way to obscure text data using a custom character map.
 
 ### 🔑 The Character Map (The Key)
 The most critical component of this program is the `CharMap`. You can view this file as the **encryption key**.
