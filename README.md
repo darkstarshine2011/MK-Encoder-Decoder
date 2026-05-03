@@ -1,7 +1,7 @@
 # 🗝️ MK Encoder-Decoder 🗝️
 ### A Custom Character Substitution Tool
 
-*(Developed by darkstarshine2011 for Nyxilion (Mohammad MK))*
+*(Developed by darkstarshine2011 for Nyxilion(Mohammad MK)*
 
 ---
 
@@ -42,7 +42,7 @@ Upon running the script, you will be presented with a menu:
 
 ---
 
-## 🇮🇷 نسخه فارسی (Farisi Version)
+## 🇮🇷 نسخه فارسی (Farsi Version)
 
 ### 📜 معرفی پروژه
 این ریپازیتوری شامل **MK Encoder-Decoder** است؛ یک ابزار ساده و کارآمد برای رمزگذاری و رمزگشایی متن بر اساس جابه‌جایی (Substitution Cipher). این برنامه با استفاده از یک نقشه کاراکتر اختصاصی، داده‌های متنی عادی را رمزگذاری می‌کند و محرمانه می‌سازد.
